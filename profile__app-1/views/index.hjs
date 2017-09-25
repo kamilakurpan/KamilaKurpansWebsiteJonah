@@ -1,0 +1,294 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Kamila's Profile</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="theme/assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="theme/assets/css/noscript.css" /></noscript>
+		<!-- 2x stylesheets below are used by the 'Slick' slider. http://kenwheeler.github.io/slick/ -->
+		<link rel="stylesheet" href="theme/assets/css/slick.css">
+		<link rel="stylesheet" href="theme/assets/css/slick-theme.css">
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-pencil"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Kamila Kurpan</h1>
+								<p><!--[-->An <a href="https://html5up.net">user experience designer</a> and writer <!--]--><br />
+								<!--[-->With the creativity, passion and communication skills to solve any problem <a href="https://html5up.net/license"></a><!--]--></p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">About Me</a></li>
+								<li><a id='blushed' href="#work">BLUSHED - Case Study</a></li>
+								<li><a href="#about">EDGE</a></li>
+								<li><a href="#apples">EVERLAST - Onboarding </a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Apples -->
+						<article id="apples">
+							<h2 class="major">Apples</h2>
+							<h3 class="minor">more apples</h3>
+							<span class="image main"><img src="theme/images/pic01.jpg" alt="" /></span>
+							<p>FILL IN</p>
+							<p>FILL IN.</p>
+							<p>FILL IN</p>
+							<p>FILL IN</p>
+							<p>FILL IN</p>
+						</article>
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">About Kamila</h2>
+									<!-- New slider - START -->
+									<ul class="slider-target">
+										<li><img src="http://lorempixel.com/900/600/" /></li>
+										<li><img src="http://lorempixel.com/900/600/sports" /></li>
+										<li><img src="http://lorempixel.com/900/600/city" /></li>
+										<li><img src="http://lorempixel.com/900/600/abstract" /></li>
+									</ul>
+									<!-- New slider - END -->
+									<!-- DELETE BELOW -->
+									<!-- <span class="image main">
+										<div id="slider">
+										  <a href="#" class="control_next">></a>
+										  <ul>
+										    <li><img src="/theme/images/STYLE_TILE.png" /></li>
+										    <li><img src="/theme/images/pic01.jpg" /></li>
+												<li><img src="/theme/images/pic02.jpg" /></li>
+												<li><img src="/theme/images/bg.jpg" /></li>
+										  </ul>
+										</div>
+
+										<div class="slider_option">
+										  <input type="checkbox" checked id="checkbox">
+										  <label for="checkbox">Autoplay</label>
+										</div>
+								</span> -->
+								<!-- DELETE ABOVE -->
+								<p>I am a pixel-perfect UX Designer new to the design world. I am in this field because of my passion for creating and for problem solving.</p>
+                <p>My interest in technology began at an early age with Microsoft Office and of Bill Gates. His philanthropic efforts, still inspire me. A few years ago I was fortunate enough to work for Microsoft as a Learning Specialist. This only solidified my interest in technology.</p>
+                <p>My education has given me the platform I need to be successful in my future career. After completing my Bachelors of Arts at McMaster University, I completed my Masters of Teaching at Griffith University. This has given me my asset, my communication skills. My masters has taught me the ability to communicate any idea to any group of people, regardless of skills. Throughout my career I have worked for American Express, Statistics Canada, Carnival and Costa Cruise Lines, Bell, Microsoft and Canadian Blood Services. The most recent being Microsoft as a Learning Specialist and Canadian Blood Services as an Event Coordinator.</p>
+                <p>My fascination with visual design has only increased since learning more about user experience and design. I  take great pride in creating not only visually stunning designs but great user experiences. My ability and talent in being able to quickly understand complex client requirements and generate simple and logical solutions, has only helped me understand the complexities of this field more.</p>
+								<p>I am excited to take on new challenges and am ready to immerse myself into the design world. Please take a look at my <a href="#work">work</a>, feel free to let me know any feedback. THANK YOU!</p>
+								<span class="image main">
+									<div id="slider-1">
+										<a href="#" class="control_next-1">></a>
+										<ul>
+											<li><img src="/theme/images/STYLE_TILE.png" /></li>
+											<li><img src="/theme/images/pic01.jpg" /></li>
+											<li><img src="/theme/images/pic02.jpg" /></li>
+											<li><img src="/theme/images/bg.jpg" /></li>
+										</ul>
+									</div>
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">BLUSHED</h2>
+								<h3 class="minor">BLUSHED an E-Commerce iOS App designed by Kamila Kurpan</h3>
+								<!-- New slider - START -->
+								<ul class="slider-target">
+									<li><img src="http://lorempixel.com/900/600/" /></li>
+									<li><img src="http://lorempixel.com/900/600/sports" /></li>
+									<li><img src="http://lorempixel.com/900/600/city" /></li>
+									<li><img src="http://lorempixel.com/900/600/abstract" /></li>
+								</ul>
+								<!-- New slider - END -->
+								<!-- DELETE BELOW -->
+								<!--
+								<span class="image main">
+									<div id="slider-1">
+										<a href="#" class="control_next-1">></a>
+										<ul>
+											<li><img src="/theme/images/STYLE_TILE.png" /></li>
+											<li><img src="/theme/images/pic01.jpg" /></li>
+											<li><img src="/theme/images/pic02.jpg" /></li>
+											<li><img src="/theme/images/bg.jpg" /></li>
+										</ul>
+									</div>
+								</span>
+								-->
+								<!-- DELETE ABOVE -->
+								<h3 class="major">PROBLEM</h2>
+								<h3 class="minor">Design an app that solves a problem you encounter daily.</h3>
+								<h3 class="major">MY DESIGN</h2>
+								<p>Personally I would love to try new makeup LOOKS, but I don’t know what would look good on my skin and how to apply it. During my research I noticed a gap in the beauty apps that are currently on the market. There are only a few, and only one that is E-Commerced based. Typically these beauty apps use “makeup” filters which is just a normal photo editor filter, nothing specifically for your own skin type. I decided to design an app that will use video features along with a personalized skin questionnaire that will help BLUSHED determine the best beauty products for YOUR specific skin tone.  The more you use our video feature, and comment on products that you purchased, the more tailored your makeup LOOKS will be.</p>
+								<h3 class="minor">What is BLUSHED?</h3>
+								<ul>
+									<li>A makeup and E-Commerce iOS app.</li>
+									<li>BLUSHED is a new state of the art beauty app that uses questions, video and 3D scanning* to give you makeup LOOKS specifically picked for your skin (and you can purchase the products too).</li>
+								</ul>
+								<p>* 3D scanning is a feature only available on the iPhone 7+.</p>
+
+								<h3 class="minor">What is BLUSHED MIRROR?</h3>
+								<video src="/theme/video/1.mov" class="video__style" autoplay></video>
+								<p>In BLUSHED Mirror, we use video technology and scanning, to take a photo of your face. The more videos you take the better our makeup suggestions will be.</p>
+								<p>*This should be ideally done, without makeup.</p>
+								<h3 class="minor">What is BLUSHED REALLY?</h3>
+								<ul>
+									<li>It's a makeup app takes a video of your face and generates the best possible selfie.</li>
+									<li>From this selfie we generate three new makeup LOOKS.</li>
+									<li>BLUSHED then allows you to purchase any product that was used in the LOOK or in our database.</li>
+								</ul>
+								<h3 class="minor">What is the best feature on BLUSHED?
+								<h4 class="minor">BLUSHED ALWAYS HAS FREE SHIPPING.</h4>
+								<p>*Express shipping is available at a premium. Prices may change due to partner sites delivery charges.</p>
+								<h3 class="minor">What makeup products will BLUSHED carry?
+								<h4 class="minor">BLUSHED will be selling any makeup product currently sold in North America.</h4>
+								<ul>
+									<li>We will partner with companies and use their inventory and shipping methods, product will be shipped from that specific company.</li>
+									<li>Free shipping applies to all products, however shipping time may vary.</li>
+								<span class="image main"><img src="theme/images/pic02.jpg" alt="" /></span>
+								<h3 class="major">Interviews</h3>
+								<p>Throughout this process I interviewed over 20 individuals, I spoke to anyone willing to try a makeup product. Individuals in the makeup industry to senior citizens were interviewed. Interviews ranged from questions on basic makeup skills to in-depth conversations on the industry and the impact this app. I tried to gage what all potential users wanted in a makeup app, or there was even a need. There was one…</p>
+								<h3 class="minor">Who is my audience?</h3>
+								<p>My audience is any individual that wants to either learn more about makeup or is a makeup enthusiast. The themes and features in the app will fascinate new users to the world of makeup and keep the industry professionals up-to-date on the latest trends.</p>
+								<h3 class="major">Personas</h3>
+								<h3 class="minor">Persona 1
+								<span class="image main"><img src="theme/images/Persona 1.jpg" alt="" /></span>
+								<h3 class="minor">Persona 2
+								<span class="image main"><img src="theme/images/Persona 2.jpg" alt="" /></span>
+								<h3 class="minor">Persona 3
+								<span class="image main"><img src="theme/images/Persona 3.jpg" alt="" /></span>
+								<h3 class="major">Branding</h3>
+								<h4 class="minor">This brand guideline is like BLUSHED makeup bag: all the products and brushes go together to form the perfect LOOK. And building a cohesive brand identity is like finding a sense of style. We want to be easily recognizable, just like our BLUSHED PINK.</h4>
+								<h3 class="major">Voice of Tone</h3>
+								<span class="image main"><img src="theme/images/Branding 1.jpg" alt="" /></span>
+								<h3 class="major">Colour Palette</h3>
+								<span class="image main"><img src="theme/images/Branding 2.jpg" alt="" /></span>
+								<h3 class="major">Logo, App Icons and Typography</h3>
+								<span class="image main"><img src="theme/images/Branding 3.jpg" alt="" /></span>
+								<h3 class="major">Style Tile</h3>
+								<span class="image main"><img src="theme/images/Branding 4.jpg" alt="" /></span>
+								<h3 class="major">Challenges</h3>
+								<h4>Throughout this process I came across a few challenges, and was able to overcome majority of them.</h4>
+								<ul>
+									<li>When I completed my Information Architecture (IA), I had six main sections in this app along with a long on boarding. After completing my first variation of my low fidelity wireframes, I realized that if I did complete all of these sections within 3 weeks, the best features of the app may suffer. Then I went through four variations of my IA and wireframes and a lot of research until I was satisfied. </li>
+									<li>One of the sections that I wanted to include but couldn’t due to time constraints, was my social media section called Connect. Here users could’ve uploaded their LOOKS, similar to Instagram. Users could then comment, like the LOOK or watch a tutorial on how to achieve that makeup style.</li>
+									<li>My final challenge was designing the app specifically, I went through a lot of testing. In one experience (discussed more in the testing section), user testing contradicted iOS guidelines and typical UX standards, after speaking to many in the field, I made an executive decision to do it. certain way.</li>
+								</ul>
+								<p>*These are highlighted in their corresponding sections below.</p>
+								<h3 class="major">Information Architecture</h3>
+								<h4>I went through four iterations of my information architecture, displayed is my first and last version.</h4>
+								<h3 class="minor">First Version</h3>
+								<span class="image main"><img src="theme/images/IA1.pdf" alt="" /></span>
+								<h3 class="minor">Final Version</h3>
+								<span class="image main"><img src="theme/images/IA2.pdf" alt="" /></span>
+								<h3 class="major">Features of BLUSHED</h3>
+								<h4>Highlighted below are the main features of this app.</h4>
+								<h3 class="major">Feature 1</h3>
+								<h4>Questionnaire - Skin Consultation</h4>
+								<span class="image main"><img src="theme/images/feature 1.jpg" alt="" /></span>
+								<p>The main feature of BLUSHED is the ability the app has to match makeup products to your specific skin tone.</p>
+								<p>This questionnaire will help BLUSHED generate the best possible makeup for your skin tone. There are two option in the app, a short or long version. The more you complete the better our suggestions are.</p>
+								<p>*During onboarding you have the option to complete the questionnaire, if you chose not to you always complete it in “Your Profile”.</p>
+								<h3 class="major">Feature 2</h3>
+								<h4>LOOKS</h4>
+								<span class="image main"><img src="theme/images/Feature 2.jpg" alt="" /></span>
+								<p>After you complete the questionnaire and take a video scan of your face, BLUSHED will make personalized LOOKS designed just for your skin tone!</p>
+								<p>BLUSHED uses questions, video and 3D scanning (iPhone 7+) to give you the best possible LOOKS. AT ALL TIMES!</p>
+								<h3 class="major">Feature 3</h3>
+								<h4>Save Feature</h4>
+								<span class="image main"><img src="theme/images/Feature 3.jpg" alt="" /></span>
+								<p>You can save any product, tutorial or LOOK.</p>
+								<p>*All saved information can be accessed in "Your Profile" section of the app.</p>
+								<h3 class="major">Feature 4</h3>
+								<h4>Like Feature</h4>
+								<span class="image main"><img src="theme/images/Feature 4.jpg" alt="" /></span>
+								<p>If you like any LOOK we will generate similar looks to those.</p>
+								<h3 class="major">Userflows</h3>
+								<h4>This case study showcases two userflows for two specific users.</h4>
+								<ol>
+									<li>NEW USER: User on-boarding experience and exploring the LOOK section of BLUSHED app for the first time. </li>
+									<li>LOYAL CUSTOMER: User is browsing for products and then purchasing items from BLUSHED.</li>
+								<span class="image main"><img src="theme/images/pic02.jpg" alt="" /></span>
+								<h3 class="major">BLUSHED USER Testing</h3>
+								<h4>During my high fidelity process I tested my visual design tremendously. 30 people partook in the testing and I included the most important tests that I conducted.</h4>
+								<span class="image main"><img src="theme/images/pic02.jpg" alt="" /></span>
+								<h3 class="major">Prototype</h3>
+								<ul class="actions">
+									<li><a href="#" class="button special">BLUSHED - New User Flow</a></li>
+									<li><a href="#" class="button">BLUSHED - Loyal Customer Flow</a></li>
+								</ul>
+								<h3 class="major">Future of BLUSHED</h3>
+								<p>Currently there are no plans to build this app fully, however if I was to continue working on BLUSHED I would complete my social media section and add in a few more features.</p>
+								</article>
+
+
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="https://twitter.com/KamilaKurpan" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button special">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions vertical">
+										<li><a href="#" class="button special">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Designed by <a href="#">Kamila Kurpan</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="theme/assets/js/jquery.min.js"></script>
+			<!-- Script below is required for the interactive sliders, do not remove. http://kenwheeler.github.io/slick/ -->
+			<script src="theme/assets/js/slick.js"></script>
+			<!-- Script below looks for all elements with a class of 'slider-target' and converts them to interactive sliders. -->
+			<script type="text/javascript">
+				$(document).ready(function(){
+						$( '.slider-target' ).slick( {
+							infinite: true,
+							fade:true,
+							speed: 300,
+							slidesToShow: 1,
+							adaptiveHeight: true
+						} );
+				} );
+			</script>
+			<script src="theme/assets/js/skel.min.js"></script>
+			<script src="theme/assets/js/util.js"></script>
+			<script src="theme/assets/js/main.js"></script>
+			<script src="build/bundle.js"></script>
+			<script src="build/bundle.map"></script>
+
+	</body>
+</html>
